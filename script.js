@@ -20,23 +20,23 @@ const photos = [
     "https://i.postimg.cc/5tZPZz4r/1783538539664.jpg", // Photo 4
     "https://i.postimg.cc/85MyDCcy/1783538539713.jpg", // Photo 5
     "https://i.postimg.cc/TwgkGP1B/1783538539679.jpg", // Photo 6
-    "https://i.postimg.cc/ZnSrLKww/PC290488-(1).jpg", // Photo 7
+    "https://i.postimg.cc/V6n71NvR/1783538539632.jpg", // Photo 7
     "https://i.postimg.cc/gJ8Md0rP/DSC-0033-(1).jpg"   // Photo 8
 ];
 
 // 4. YOUR BEAUTIFUL MEMORIES TIMELINE (4 photos + custom text for your memories)
 const memoryPhotos = [
-    "https://i.postimg.cc/28MrVby7/MNP00158.jpg", // Memory Photo 1
-    "https://i.postimg.cc/k5GwV4HK/IMG-20250319-170652.jpg", // Memory Photo 2
-    "https://i.postimg.cc/Y0ykNj3x/IMG-20250414-164420.jpg", // Memory Photo 3
-    "https://i.postimg.cc/02b9kdkD/IMG-20260515-171631-(1).jpg"  // Memory Photo 4
+    "https://i.postimg.cc/V6n71N5k/MNP00158.jpg", // Memory Photo 1
+    "https://i.postimg.cc/nzBdZLrS/IMG-20250319-170652.jpg", // Memory Photo 2
+    "https://i.postimg.cc/MTVsxGHh/IMG-20250414-164420.jpg", // Memory Photo 3
+    "https://i.postimg.cc/85MyDCsT/IMG-20260515-171631-(1).jpg"  // Memory Photo 4
 ]; 
     
 const timelineData = [
     { title: "Th Best Day Ever", text: "The day the universe rewrote itself and my life shifted forever.", date: "Beautiful Captured" },
-    { title: "Our Very First Movie Date", text: "Butterflies, nervous laughs, and an undeniable cosmic pull.", date: "Beginning of BINI Era" },
+    { title: "Our Very First Movie Date", text: "Butterflies, nervous laughs, and happines.", date: "Beginning of BINI Era" },
     { title: "A Special Milestone Together", text: "Hand in hand, overcoming challenges and sealing our bond.", date: "Forever Special- Day" },
-    { title: "Another Year of Pure Bliss", text: "Standing stronger, loving harder, and looking forward to forever.", date: "Today" }
+    { title: "Another Year of Pure Bliss", text: "Standing stronger, loving harder and fighting also harder;).", date: "Today" }
 ];
 
 // 5. 10 REASONS I LOVE YOU (Exactly 10 cards)
