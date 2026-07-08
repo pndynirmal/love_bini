@@ -14,14 +14,14 @@ const musicUrl = "https://files.catbox.moe/2lkspv.mp3";
 
 // 3. YOUR PHOTO GALLERY (Replace the links inside "" with your own image URLs)
 const photos = [
-    "https://i.postimg.cc/gkvN61k7/1783538539591.webp", // Photo 1
-    "https://i.postimg.cc/BQWmbJsV/1783538539632.jpg", // Photo 2
-    "https://i.postimg.cc/15pJNb3y/1783538539763.jpg", // Photo 3
-    "https://i.postimg.cc/02gVj9xn/1783538539604.jpg", // Photo 4
-    "https://i.postimg.cc/mZ1dTPxF/1783538539619.jpg", // Photo 5
-    "https://i.postimg.cc/xTr689Yg/1783538539664.jpg", // Photo 6
+    "https://i.postimg.cc/hGHCHmDC/1783538539619.jpg", // Photo 1
+    "https://i.postimg.cc/6QDHDZWS/1783538539591.webp", // Photo 2
+    "https://i.postimg.cc/CKWvW8h6/1783538539647.jpg", // Photo 3
+    "https://i.postimg.cc/5tZPZz4r/1783538539664.jpg", // Photo 4
+    "https://i.postimg.cc/85MyDCcy/1783538539713.jpg", // Photo 5
+    "https://i.postimg.cc/TwgkGP1B/1783538539679.jpg", // Photo 6
     "https://i.postimg.cc/ZnSrLKww/PC290488-(1).jpg", // Photo 7
-    "https://i.postimg.cc/ZKmc8jQG/DSC9368.jpg"   // Photo 8
+    "https://i.postimg.cc/gJ8Md0rP/DSC-0033-(1).jpg"   // Photo 8
 ];
 
 // 4. YOUR BEAUTIFUL MEMORIES TIMELINE (4 photos + custom text for your memories)
